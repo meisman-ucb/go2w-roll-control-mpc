@@ -4,6 +4,10 @@ by Marla Eisman, Brian Lam, Samuel Sonnino, and Francesco Borrelli from the MPC 
 
 https://github.com/user-attachments/assets/1c9027e6-6691-4b0d-b7d6-2f30f8803af6
 
+
+https://github.com/user-attachments/assets/fc539247-ecb7-467b-9444-31836c4adda9
+
+
 This repository contains the high-level active-roll-control MPC from the paper and a closed-loop
 simulation of it on the dynamic-bicycle model.
 
